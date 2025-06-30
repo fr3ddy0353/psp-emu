@@ -1,0 +1,15 @@
+{
+  "name": "xbox-controller-demo",
+  "version": "1.0.0",
+  "description": "Plug and play Xbox One / Series S controller input demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xbox-controller": "0.4.5"
+  },
+  "engines": {
+    "node": ">=16 <=18"
+  }
+}
